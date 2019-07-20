@@ -1,0 +1,5 @@
+IOIO OTG Controls
+GPIO 1 = mirror servo
+GPIO 2 = right motor
+GPIO 3 = left motor
+GPIO 4 = lifting thing
