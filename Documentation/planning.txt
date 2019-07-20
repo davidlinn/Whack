@@ -1,1 +1,21 @@
-Planning goes here
+Ideas for how car is controlled:
+
+Bose only ----
+
+Drive Sim:
+Tilt head left and right (roll) to turn left and right. Head down for backwards and up for forwards (Pitch).
+
+Accel Follow:
+Gas follows Y acceleration on frames. Turning follows X acceleration.
+
+Waypoint Nav:
+Car navigates to waypoint determined by where we are looking.
+REQUIRES the car to localize itself (GPS and IMU)
+
+Leap Motion only ----
+
+Hand Position:
+Flat downward hand at predetermined position is neutral. Moving hand up induces forward motion in car. Moving hand down induces backward motion in car. Tilting hand clockwise turns right and counterclockwise turns left.
+
+Bose and Leap Motion ----
+
